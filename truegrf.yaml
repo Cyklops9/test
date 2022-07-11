@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1d3c8a8
 license: CC0-1.0
+name: test
 type: industry
+url: https://github.com/Cyklops9/test
 version: 6
